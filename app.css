@@ -1,0 +1,8 @@
+h1 {
+  border-radius: 5px;
+  border-color: rgb(236, 183, 191);
+  border-width: 1px;
+  border-style: solid;
+  width: 210px;
+  color: blueviolet;
+}
